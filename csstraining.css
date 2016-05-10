@@ -1,9 +1,9 @@
-h1 {color: fuchsia; font-style: normal;
+h1 {color: indigo; font-style: normal;
     Font-family: Papyrus; font-weigth: bolder;
     Font-size: 40px;
 }
 
-p{color: #ffbffd; font-style: italic; Font-family: Papyrus;
+p{color: turquoise; font-style: italic; Font-family: Papyrus;
     Font-size: 25px; font-weight: bold;
 }
 
@@ -16,5 +16,22 @@ font-size: 15px; font-weight: normal;
 }
 h3 {color: black; font-weight: bold; font-size: 15px;
 }
+
 h4 {color: black; font-weight: bold; font-size: 15px;
+}
+
+body {background-color: blanchedalmond;
+    background-image: url("http://img02.deviantart.net/aecf/i/2015/113/a/6/eiffel_tower_watercolor_v2_by_lovelustlost-d5ozfsr.png");
+}
+h5 {color: black; font-weight: bold; font-size: 15px;
+}
+
+h6 {color: black; font-weight: bold; font-size: 15px;
+}
+
+p1{color: black; font-style: italic; Font-family: Papyrus;
+    Font-size: 15px; font-weight: bold;
+}
+p2{color: black; font-style: italic; Font-family: Papyrus;
+    Font-size: 12px; font-weight: bold;
 }
